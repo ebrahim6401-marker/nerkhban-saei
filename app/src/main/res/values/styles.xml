@@ -1,0 +1,4 @@
+<resources>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#48D7B0</item><item name="android:navigationBarColor">#071A1D</item><item name="android:statusBarColor">#071A1D</item><item name="android:windowLightStatusBar">false</item></style>
+    <style name="RateRow"><item name="android:layout_width">match_parent</item><item name="android:layout_height">wrap_content</item><item name="android:textColor">#F4F7F4</item><item name="android:textSize">12sp</item><item name="android:gravity">end</item><item name="android:paddingTop">4dp</item><item name="android:paddingBottom">4dp</item></style>
+</resources>
