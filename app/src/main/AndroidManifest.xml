@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-permission android:name="android.permission.INTERNET" />
-    <application android:theme="@style/AppTheme" android:label="نرخ‌بان ساعی" android:icon="@drawable/ic_launcher">
+    <application android:theme="@style/AppTheme" android:label="نرخ‌بان ساعی" android:icon="@drawable/saei_logo">
         <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
